@@ -42,6 +42,8 @@
     "webpack-dev-server": "^3.11.1",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "i": "^0.3.7"
+  },
   "repository": "https://github.com/Julie-T/env_3.git"
 }
